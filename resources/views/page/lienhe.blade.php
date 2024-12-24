@@ -31,7 +31,7 @@
             <div class="col-sm-8">
                 <h2 style="color:brown; font-family:Arial, Helvetica, sans-serif;"><b>Thông tin phản hồi khách hàng</b></h2>
                 <div class="space20">&nbsp;</div>
-                <p>Chúng tôi rất mong nhận được phản hồi từ bạn để cải thiện dịch vụ và sản phẩm của mình. Vui lòng điền thông tin vào biểu mẫu dưới đây: </p>
+                <p><b>Chúng tôi rất mong nhận được phản hồi từ bạn để cải thiện dịch vụ và sản phẩm của mình. Vui lòng điền thông tin vào biểu mẫu dưới đây: </b></p>
                 <div class="space20">&nbsp;</div>
                 <form action="/feedback" method="post" class="contact-form">
                     <div class="form-block">
@@ -47,7 +47,7 @@
                         <textarea name="your-message" placeholder="Phản hồi của bạn" required></textarea>
                     </div>
                     <div class="form-block">
-                        <button type="submit" class="beta-btn primary" style="color:brown; border: 1px solid rgba(255, 99, 71, 0.6);">Gửi phản hồi<i class="fa fa-chevron-right"></i></button>
+                        <button type="submit" class="beta-btn primary" style="color:brown; border: 1px solid rgba(255, 99, 71, 0.6);"><b>Gửi phản hồi</b><i class="fa fa-chevron-right"></i></button>
                     </div>
                 </form>
             </div>
@@ -57,26 +57,24 @@
 
                 <h6 class="contact-title" style="color:brown;"><b>Địa chỉ</b></h6>
                 <p>
-                    Số 1A Đường Đức Thắng<br>
-                    Hà Nội
+                    <b>Số 1A Đường Đức Thắng</b><br>
+                    <b>Hà Nội</b>
                 </p>
                 <div class="space20">&nbsp;</div>
 
                 <h6 class="contact-title" style="color:brown;"><b>Email</b></h6>
                 <p>
-                    We’re always looking for talented persons to <br>
-                    join our team. <br>
                     <br/>
-                    <a href="2211090012@studenthuph.edu.vn" style="color:brown;">2211090012@studenthuph.edu.vn</a>
-                    <a href="2211090027@studenthuph.edu.vn" style="color:brown;">2211090027@studenthuph.edu.vn</a>
-                    <a href="2211090031@studenthuph.edu.vn" style="color:brown;">2211090031@studenthuph.edu.vn</a>
+                    <a href="2211090012@studenthuph.edu.vn" style="color:brown;"><b>2211090012@studenthuph.edu.vn</b></a>
+                    <a href="2211090027@studenthuph.edu.vn" style="color:brown;"><b>2211090027@studenthuph.edu.vn</b></a>
+                    <a href="2211090031@studenthuph.edu.vn" style="color:brown;"><b>2211090031@studenthuph.edu.vn</b></a>
                 </p>
                 <div class="space20">&nbsp;</div>
                 <h6 class="contact-title" style="color:brown;"><b>Thàmh viên trong nhóm</b></h6>
                 <p>
-                    Dương Mai Thu Hiền <br>
-                    Nguyễn Thị Thanh Nga <br>
-                    Đinh Lê Quỳnh Phương
+                    <b>Dương Mai Thu Hiền</b> <br>
+                    <b>Nguyễn Thị Thanh Nga </b><br>
+                    <b>Đinh Lê Quỳnh Phương</b>
 
                 </p>
             </div>

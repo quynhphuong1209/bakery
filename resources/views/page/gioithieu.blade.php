@@ -352,15 +352,15 @@
     <div class="content">
         <h2>Giới thiệu về Sweet Street Bakery</h2>
         <br/>
-        <p>Tại Sweet Street Bakery, chúng tôi tự hào là một tiệm bánh nổi tiếng với những chiếc bánh ngọt ngon nhất, được làm từ những nguyên liệu tươi ngon và chất lượng cao. Từ những ngày đầu thành lập, chúng tôi đã không ngừng phát triển và mở rộng để trở thành một thương hiệu được yêu thích và tin cậy trong lòng khách hàng.</p>
+        <p><b>Tại Sweet Street Bakery, chúng tôi tự hào là một tiệm bánh nổi tiếng với những chiếc bánh ngọt ngon nhất, được làm từ những nguyên liệu tươi ngon và chất lượng cao. Từ những ngày đầu thành lập, chúng tôi đã không ngừng phát triển và mở rộng để trở thành một thương hiệu được yêu thích và tin cậy trong lòng khách hàng.</b></p>
         <br/>
         <h3>Lịch sử hình thành và phát triển</h3>
         <br/>
-        <p>Sweet Street Bakery bắt đầu từ một tiệm bánh nhỏ với những chiếc bánh ngọt thủ công. Với sự đam mê và tận tâm của đội ngũ nhân viên, chúng tôi đã nhanh chóng thu hút được sự chú ý của khách hàng và cộng đồng. Nhờ vào sự ủng hộ và yêu mến của mọi người, chúng tôi đã mở rộng quy mô và phát triển thành một chuỗi tiệm bánh nổi tiếng, mang lại niềm vui và hương vị tuyệt vời cho hàng ngàn khách hàng.</p>
+        <p><b>Sweet Street Bakery bắt đầu từ một tiệm bánh nhỏ với những chiếc bánh ngọt thủ công. Với sự đam mê và tận tâm của đội ngũ nhân viên, chúng tôi đã nhanh chóng thu hút được sự chú ý của khách hàng và cộng đồng. Nhờ vào sự ủng hộ và yêu mến của mọi người, chúng tôi đã mở rộng quy mô và phát triển thành một chuỗi tiệm bánh nổi tiếng, mang lại niềm vui và hương vị tuyệt vời cho hàng ngàn khách hàng.</b></p>
         <br/>
         <h3>Sản phẩm và Dịch vụ</h3>
         <br/>
-        <p>Tại Sweet Street Bakery, chúng tôi cung cấp một loạt các sản phẩm đa dạng, từ những chiếc bánh kem mềm mịn, bánh mousse tinh tế đến những chiếc bánh tart giòn tan. Mỗi sản phẩm của chúng tôi đều được chế biến thủ công với tình yêu và sự tận tâm, nhằm mang đến cho khách hàng những trải nghiệm ẩm thực tuyệt vời nhất.</p>
+        <p><b>Tại Sweet Street Bakery, chúng tôi cung cấp một loạt các sản phẩm đa dạng, từ những chiếc bánh kem mềm mịn, bánh mousse tinh tế đến những chiếc bánh tart giòn tan. Mỗi sản phẩm của chúng tôi đều được chế biến thủ công với tình yêu và sự tận tâm, nhằm mang đến cho khách hàng những trải nghiệm ẩm thực tuyệt vời nhất.</b></p>
         <ul style="font-family:'Times New Roman', Times, serif; font-size:16px;">
             <li><strong>Bánh ngọt:</strong> <b>Chúng tôi tự hào về những chiếc bánh ngọt được trang trí đẹp mắt và hương vị tuyệt hảo, thích hợp cho mọi dịp lễ kỷ niệm, sinh nhật hay tiệc tùng.</b> </li>
             <li><strong>Bánh mì:</strong> <b>Những chiếc bánh mì của chúng tôi luôn mềm mại, thơm ngon và đa dạng về hương vị, từ truyền thống đến hiện đại, đáp ứng nhu cầu và sở thích của mọi khách hàng.</b> </li>
@@ -368,23 +368,23 @@
         <br/>
         <h3>Không gian tại Sweet Street Bakery</h3>
         <br/>
-        <p>Không gian của Sweet Street Bakery được thiết kế ấm cúng và thân thiện, mang đến cảm giác thoải mái và gần gũi cho khách hàng. Với ánh sáng tự nhiên, trang trí tinh tế và không gian mở, tiệm bánh của chúng tôi là nơi lý tưởng để bạn có thể thư giãn và thưởng thức bánh ngọt cùng bạn bè và gia đình.</p>
+        <p><b>Không gian của Sweet Street Bakery được thiết kế ấm cúng và thân thiện, mang đến cảm giác thoải mái và gần gũi cho khách hàng. Với ánh sáng tự nhiên, trang trí tinh tế và không gian mở, tiệm bánh của chúng tôi là nơi lý tưởng để bạn có thể thư giãn và thưởng thức bánh ngọt cùng bạn bè và gia đình.</b></p>
         <br/>
         <h3>Sứ mệnh và Tầm nhìn</h3>
         <br/>
-        <p>Sứ mệnh của Sweet Street Bakery là mang lại niềm vui và sự hài lòng cho khách hàng thông qua những sản phẩm chất lượng cao và dịch vụ tận tâm. Chúng tôi luôn không ngừng nỗ lực để cải tiến và sáng tạo, nhằm mang đến những trải nghiệm ẩm thực độc đáo và tuyệt vời nhất cho khách hàng. Tầm nhìn của chúng tôi là trở thành một thương hiệu bánh ngọt hàng đầu, được biết đến và yêu thích không chỉ bởi chất lượng sản phẩm mà còn bởi sự tận tâm và thân thiện trong phục vụ.</p>
+        <p><b>Sứ mệnh của Sweet Street Bakery là mang lại niềm vui và sự hài lòng cho khách hàng thông qua những sản phẩm chất lượng cao và dịch vụ tận tâm. Chúng tôi luôn không ngừng nỗ lực để cải tiến và sáng tạo, nhằm mang đến những trải nghiệm ẩm thực độc đáo và tuyệt vời nhất cho khách hàng. Tầm nhìn của chúng tôi là trở thành một thương hiệu bánh ngọt hàng đầu, được biết đến và yêu thích không chỉ bởi chất lượng sản phẩm mà còn bởi sự tận tâm và thân thiện trong phục vụ.</b></p>
         <br/>
         <h3>Đội ngũ nhân viên</h3>
         <br/>
-        <p>Đội ngũ nhân viên tại Sweet Street Bakery là những người thợ làm bánh tài năng và nhiệt huyết. Họ không chỉ có kỹ năng làm bánh xuất sắc mà còn luôn thân thiện và tận tâm với khách hàng. Sự kết hợp hoàn hảo giữa tay nghề và tinh thần phục vụ đã làm nên tên tuổi của Sweet Street Bakery, mang lại sự hài lòng và tin tưởng từ khách hàng.</p>
+        <p><b>Đội ngũ nhân viên tại Sweet Street Bakery là những người thợ làm bánh tài năng và nhiệt huyết. Họ không chỉ có kỹ năng làm bánh xuất sắc mà còn luôn thân thiện và tận tâm với khách hàng. Sự kết hợp hoàn hảo giữa tay nghề và tinh thần phục vụ đã làm nên tên tuổi của Sweet Street Bakery, mang lại sự hài lòng và tin tưởng từ khách hàng.</b></p>
         <br/>
         <h3>Cam kết chất lượng</h3>
         <br/>
-        <p>Chúng tôi cam kết sử dụng những nguyên liệu tươi ngon và chất lượng cao nhất để làm bánh. Mỗi chiếc bánh của Sweet Street Bakery đều được làm bằng tay với sự cẩn thận và chu đáo, đảm bảo mang đến cho khách hàng những sản phẩm ngon nhất. Chúng tôi luôn đặt chất lượng và sự hài lòng của khách hàng lên hàng đầu, và đó chính là lý do tại sao Sweet Street Bakery luôn được yêu thích và tin cậy.</p>
+        <p><b>Chúng tôi cam kết sử dụng những nguyên liệu tươi ngon và chất lượng cao nhất để làm bánh. Mỗi chiếc bánh của Sweet Street Bakery đều được làm bằng tay với sự cẩn thận và chu đáo, đảm bảo mang đến cho khách hàng những sản phẩm ngon nhất. Chúng tôi luôn đặt chất lượng và sự hài lòng của khách hàng lên hàng đầu, và đó chính là lý do tại sao Sweet Street Bakery luôn được yêu thích và tin cậy.</b></p>
         <br/>
         <h3>Lời kết</h3>
         <br/>
-        <p>Hãy đến và trải nghiệm tại Sweet Street Bakery – nơi mỗi chiếc bánh đều mang một câu chuyện ngọt ngào. Chúng tôi hân hạnh được phục vụ và mang đến những khoảnh khắc ngọt ngào và đáng nhớ cho bạn và gia đình. Sweet Street Bakery luôn chào đón bạn với những sản phẩm tuyệt vời và sự phục vụ tận tâm.</p>
+        <p><b>Hãy đến và trải nghiệm tại Sweet Street Bakery – nơi mỗi chiếc bánh đều mang một câu chuyện ngọt ngào. Chúng tôi hân hạnh được phục vụ và mang đến những khoảnh khắc ngọt ngào và đáng nhớ cho bạn và gia đình. Sweet Street Bakery luôn chào đón bạn với những sản phẩm tuyệt vời và sự phục vụ tận tâm.</b></p>
     </div>
 </div>
 

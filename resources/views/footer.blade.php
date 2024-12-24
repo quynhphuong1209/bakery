@@ -79,7 +79,7 @@
             <div class="col-sm-3">
                 <div class="widget">
                     <h4 class="widget-title" style="color:white"><b>Giới thiệu</b></h4>
-                    <p style="color:white">
+                    <p style="color:white; font-family:Arial, Helvetica, sans-serif;">
                        <b>Sweet Street Bakery tự hào mang đến những chiếc bánh ngọt ngon nhất,
                         được làm từ nguyên liệu tươi ngon và chất lượng. Không gian ấm cúng và thân thiện,
                         lý tưởng cho những buổi họp mặt gia đình và bạn bè. Hãy đến và trải nghiệm nơi mà mỗi chiếc bánh đều mang một câu chuyện ngọt ngào!</b>
