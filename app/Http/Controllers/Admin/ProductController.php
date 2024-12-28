@@ -16,8 +16,22 @@ class ProductController extends Controller
 
     public function create()
     {
-        return view('admin.products.create');
+        // Lấy danh sách các loại sản phẩm từ bảng ProductType
+        $lstType = Product::where('is_deleted', false)
+                    ->where('is_show', true)
+                    ->get()
+                    ->map(function ($type) {
+                        return [
+                            'value' => $type->id,
+                            'text' => $type->name // Giả định bảng ProductType có cột 'name'
+                        ];
+                    });
+
+        // Gửi danh sách type sang view
+        return view('admin.products.create', ['types' => $lstType]);
     }
+
+
 
     public function store(Request $request)
     {

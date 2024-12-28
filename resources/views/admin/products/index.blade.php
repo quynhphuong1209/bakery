@@ -25,7 +25,7 @@
                         <th>STT</th>
                         <th>Hình ảnh</th>
                         <th>Tên</th>
-                        <th>ID</th>
+                        <th>TypeID</th>
                         {{-- <th>Mô tả</th> --}}
                         <th>Giá gốc</th>
                         <th>Giá khuyến mãi</th>

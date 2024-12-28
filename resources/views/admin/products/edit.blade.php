@@ -27,7 +27,7 @@
                         <input type="text" id="name" name="name" value="{{ $product->name }}" class="form-control" required>
                     </div>
                     <div class="form-group">
-                        <label for="id_type" class="control-label">ID Loại:</label>
+                        <label for="id_type" class="control-label">Type ID:</label>
                         <input type="number" id="id_type" name="id_type" value="{{ $product->id_type }}" class="form-control" required>
                     </div>
                     <div class="form-group">
