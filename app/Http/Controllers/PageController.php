@@ -217,6 +217,9 @@ class PageController extends Controller
         );
         $credentials = array('email'=>$req->email,'password'=>$req->password);
         if(Auth::attempt($credentials)){
+            if(auth()->user()->is_admin){
+                return to_route('admin.products.index');
+            }
             return redirect()->back()->with(['flag'=>'success','message'=>'Đăng nhập thành công']);
         }
         else{

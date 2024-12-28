@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\PageController;
 use App\Slide;
+use App\Http\Controllers\Admin\ProductController;
 
 
 /*
@@ -20,6 +21,20 @@ use App\Slide;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::middleware([
+    'auth'
+, 'admin'
+])->group(function () {
+    Route::get('admin/products', [ProductController::class, 'index'])->name('admin.products.index');
+    Route::get('admin/products/create', [ProductController::class, 'create'])->name('admin.products.create');
+    Route::post('admin/products', [ProductController::class, 'store'])->name('admin.products.store');
+    Route::get('admin/products/{product}/edit', [ProductController::class, 'edit'])->name('admin.products.edit');
+    Route::put('admin/products/{product}', [ProductController::class, 'update'])->name('admin.products.update');
+    Route::delete('admin/products/{product}', [ProductController::class, 'destroy'])->name('admin.products.destroy');
+});
+
+
 
 Route::get('index', [
     'as' => 'trang-chu',
