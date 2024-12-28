@@ -93,7 +93,7 @@
 					<div id="kt_aside_menu" class="kt-aside-menu " data-ktmenu-vertical="1" data-ktmenu-scroll="1" data-ktmenu-dropdown-timeout="500">
 						<ul class="kt-menu__nav ">
 							<li class="kt-menu__item kt-menu__item--active" aria-haspopup="true">
-								<a href="{{ route('admin.products.index') }}" class="kt-menu__link ">
+								<a href="" class="kt-menu__link ">
 									<span class="kt-menu__link-icon">
 										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 											<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -106,7 +106,7 @@
 								</a>
 							</li>
 							<li class="kt-menu__item">
-								<a href="" class="kt-menu__link">
+								<a href="{{ route('admin.products.index') }}" class="kt-menu__link">
 									<span class="kt-menu__link-icon">
 										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 											<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
