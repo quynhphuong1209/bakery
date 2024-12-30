@@ -7,6 +7,16 @@ use Illuminate\Database\Eloquent\Model;
 
 class Product extends Model
 {
+    protected $fillable = [
+        'name', // Thêm trường name
+        'price',
+        'description',
+        'unit',
+        'image',
+    ];
+
+
+
     protected $table = "products";
 
     public function product_type(){

@@ -1198,6 +1198,12 @@
 
 	<script src="{{ asset('assets/js/pages/dashboard.js" type="text/javascript"></script>
 
+
+
+
+
+
+
 </body>
 
 <!-- end::Body -->
